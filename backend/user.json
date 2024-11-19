@@ -1,0 +1,29 @@
+[{
+    "_id": {
+      "$oid": "673bc48627c50f39d29d49df"
+    },
+    "professionalName": "Jessica Terry",
+    "nameLink": {
+      "firstName": "Jessica",
+      "url": ""
+    },
+    "base64Image":"",
+
+    "firstName": "Jessica",
+    "primaryDescription": "is student at BYU-Idaho",
+    "workDescription1":
+        "She is a full-time student Software Engineer development.",
+    "workDescription2":
+        "she is taking programming and web development classes.",
+    "linkTitleText": "Check out her work below",
+    "linkedInLink": {
+        "link": "https://www.linkedin.com/in/jessica-terry-150b52212/",
+        "text": "LinkedIn"
+    },
+    "githubLink": {
+        "link": "https://github.com/ter21016",
+        "text": "GitHub"
+    },
+    "contactText":
+        "Feel free to contact him at ter21016@byui.edu if you'd like for her to work for you!"
+}]
