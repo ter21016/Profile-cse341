@@ -1,5 +1,6 @@
 const mongodb = require('../db/connect');
 
+
 const getData = async (req, res, next) => {
   const result = await mongodb.getDb().db().collection('user').find();
   result.toArray().then((lists) => {
